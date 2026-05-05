@@ -354,3 +354,50 @@ Volleyball coverage on fotospor uses standard volleyball English. The manager ro
 | saha (voleybol) | court | Volleyball saha → court (in football saha → pitch) |
 | salon | arena / hall | "Voleybol Salonu" → "Volleyball Arena" |
 | spor sarayı | sport palace | Common Turkish venue suffix; in proper venue names usually kept Turkish (e.g. "VakıfBank Spor Sarayı") |
+
+## Rhetorical patterns and periphrastic epithets
+
+Turkish sports writing leans heavily on color/city epithets and metaphorical idioms. Translate for English idiom, not literal image. **Capitalize color nicknames** as proper nouns (English does this for "the Reds", "the Blues").
+
+### Color-based club epithets
+
+| Turkish | Refers to | English |
+|---------|-----------|---------|
+| sarı-kırmızılılar | Galatasaray | the Yellow-and-Reds (or just "Galatasaray") |
+| sarı-lacivertliler | Fenerbahçe | the Yellow-and-Navy-Blues (or "Fenerbahçe") |
+| siyah-beyazlılar | Beşiktaş | the Black-and-Whites (or "Beşiktaş") |
+| bordo-mavililer | Trabzonspor | the Maroon-and-Blues (or "Trabzonspor") |
+| sarı-siyahlılar | context-dependent (VakıfBank, sometimes Fenerbahçe volleyball) | the Yellow-and-Blacks |
+
+### City/region epithets
+
+| Turkish | Refers to | English |
+|---------|-----------|---------|
+| başkent ekibi / başkent temsilcisi | Ankara-based club | the side from the capital / the Ankara side |
+| ege ekibi / ege temsilcisi | İzmir / Aegean club | the Aegean side / the İzmir side |
+| karadeniz ekibi | Trabzon / Black Sea club | the Black Sea side |
+| boğaz ekibi | İstanbul / Bosphorus club | the Bosphorus side |
+| temsilcimiz | Turkish club in European competition | our representative / the Turkish side |
+
+### Role-based generics
+
+| Turkish | English |
+|---------|---------|
+| ev sahibi ekip | the home side |
+| konuk ekip | the visiting side / the visitors |
+
+### Idioms — translate for meaning, not image
+
+| Turkish idiom | Literal | Idiomatic English |
+|---------------|---------|-------------------|
+| mutlu sona ulaşmak | reach the happy ending | lift the trophy / be crowned champions |
+| ipleri eline almak | take the ropes in hand | take control / take charge |
+| farkı açmak | open the gap | extend / widen the lead |
+| ter dökmek | spill sweat | train hard / put in the work |
+| galibiyete uzanmak | reach toward victory | claim the win |
+| sahne almak | take the stage | take to the field / feature |
+| Tamam mı, devam mı? | Done, or going on? | Wrap it up, or play on? (rhetorical headline) |
+
+### General rule for headlines and rhetorical phrases
+
+Turkish headlines are rhetorical and often double-clauses. Render them as natural English you'd see in a sports section — preserve meaning, not structure. English sports prose is plainer than Turkish; trimming one flourish per paragraph usually reads better.

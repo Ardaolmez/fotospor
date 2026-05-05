@@ -34,7 +34,8 @@ from fetch_article import fetch_one  # noqa: E402
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_VERSION = "2023-06-01"
 MODEL = os.environ.get("FOTOSPOR_MODEL", "claude-sonnet-4-6")
-PORT = int(os.environ.get("FOTOSPOR_PORT", "8000"))
+PORT = int(os.environ.get("PORT", os.environ.get("FOTOSPOR_PORT", "8000")))
+HOST = os.environ.get("FOTOSPOR_HOST", "0.0.0.0")
 
 
 def load_glossary():
@@ -345,11 +346,11 @@ class Handler(http.server.BaseHTTPRequestHandler):
 
 
 def main():
-    addr = ("127.0.0.1", PORT)
+    addr = (HOST, PORT)
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(addr, Handler) as srv:
         sys.stderr.write(
-            f"fotospor-translate web app running at http://127.0.0.1:{PORT}/\n"
+            f"fotospor-translate web app running at http://{HOST}:{PORT}/\n"
         )
         sys.stderr.write(
             f"  model: {MODEL}  glossary: {GLOSSARY_PATH}\n"
